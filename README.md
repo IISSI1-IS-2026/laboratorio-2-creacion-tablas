@@ -1,12 +1,9 @@
-# Laboratorio 2 - Creación de tablas I y II
+# Laboratorio 2 - Creación de tablas
 
-En estas dos sesiones de laboratorio se cubrirá lo siguiente:
+En esta sesión de laboratorio se cubrirá lo siguiente:
 
-**Primera sesión**
 - Creación de una nueva Base de Datos
 - Creación de tablas de ejemplo
-
-**Segunda sesión**
 - Ejercicio: Sistema de información para gestor de citas (segunda sesión)
 
 
